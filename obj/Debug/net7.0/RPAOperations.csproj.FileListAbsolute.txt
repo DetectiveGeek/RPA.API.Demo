@@ -1,0 +1,12 @@
+D:\Techverx\EonApplication2\RPAManagement\bin\Debug\net7.0\RPAOperations.deps.json
+D:\Techverx\EonApplication2\RPAManagement\bin\Debug\net7.0\RPAOperations.dll
+D:\Techverx\EonApplication2\RPAManagement\bin\Debug\net7.0\RPAOperations.pdb
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\RPAOperations.csproj.AssemblyReference.cache
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\RPAOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\RPAOperations.AssemblyInfoInputs.cache
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\RPAOperations.AssemblyInfo.cs
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\RPAOperations.csproj.CoreCompileInputs.cache
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\RPAOperations.dll
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\refint\RPAOperations.dll
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\RPAOperations.pdb
+D:\Techverx\EonApplication2\RPAManagement\obj\Debug\net7.0\ref\RPAOperations.dll

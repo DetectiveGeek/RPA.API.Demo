@@ -1,0 +1,15 @@
+D:\Techverx\EonApplication\Application.Publisher\bin\Debug\net6.0\Application.Publisher.deps.json
+D:\Techverx\EonApplication\Application.Publisher\bin\Debug\net6.0\Application.Publisher.dll
+D:\Techverx\EonApplication\Application.Publisher\bin\Debug\net6.0\Application.Publisher.pdb
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.csproj.AssemblyReference.cache
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.AssemblyInfoInputs.cache
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.AssemblyInfo.cs
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.csproj.CoreCompileInputs.cache
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.csproj.CopyComplete
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.dll
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\refint\Application.Publisher.dll
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\Application.Publisher.pdb
+D:\Techverx\EonApplication\Application.Publisher\obj\Debug\net6.0\ref\Application.Publisher.dll
+D:\Techverx\EonApplication\Application.Publisher\bin\Debug\net6.0\Application.Helper.dll
+D:\Techverx\EonApplication\Application.Publisher\bin\Debug\net6.0\Application.Helper.pdb

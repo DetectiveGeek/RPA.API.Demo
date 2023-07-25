@@ -1,0 +1,12 @@
+D:\Techverx\EonApplication\Application.Configurations\bin\Debug\net6.0\Application.Helper.deps.json
+D:\Techverx\EonApplication\Application.Configurations\bin\Debug\net6.0\Application.Helper.dll
+D:\Techverx\EonApplication\Application.Configurations\bin\Debug\net6.0\Application.Helper.pdb
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Helper.csproj.AssemblyReference.cache
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Helper.AssemblyInfoInputs.cache
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Helper.AssemblyInfo.cs
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Helper.csproj.CoreCompileInputs.cache
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Helper.dll
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\refint\Application.Helper.dll
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Helper.pdb
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\ref\Application.Helper.dll

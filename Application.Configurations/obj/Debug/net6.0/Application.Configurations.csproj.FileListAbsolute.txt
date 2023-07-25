@@ -1,0 +1,12 @@
+D:\Techverx\EonApplication\Application.Configurations\bin\Debug\net6.0\Application.Configurations.deps.json
+D:\Techverx\EonApplication\Application.Configurations\bin\Debug\net6.0\Application.Configurations.dll
+D:\Techverx\EonApplication\Application.Configurations\bin\Debug\net6.0\Application.Configurations.pdb
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Configurations.csproj.AssemblyReference.cache
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Configurations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Configurations.AssemblyInfoInputs.cache
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Configurations.AssemblyInfo.cs
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Configurations.csproj.CoreCompileInputs.cache
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Configurations.dll
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\refint\Application.Configurations.dll
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\Application.Configurations.pdb
+D:\Techverx\EonApplication\Application.Configurations\obj\Debug\net6.0\ref\Application.Configurations.dll

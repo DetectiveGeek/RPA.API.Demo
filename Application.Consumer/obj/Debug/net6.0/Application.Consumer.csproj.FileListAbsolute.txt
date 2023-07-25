@@ -1,0 +1,15 @@
+D:\Techverx\EonApplication\Application.Consumer\bin\Debug\net6.0\Application.Consumer.deps.json
+D:\Techverx\EonApplication\Application.Consumer\bin\Debug\net6.0\Application.Consumer.dll
+D:\Techverx\EonApplication\Application.Consumer\bin\Debug\net6.0\Application.Consumer.pdb
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.csproj.AssemblyReference.cache
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.AssemblyInfoInputs.cache
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.AssemblyInfo.cs
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.csproj.CoreCompileInputs.cache
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.csproj.CopyComplete
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.dll
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\refint\Application.Consumer.dll
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\Application.Consumer.pdb
+D:\Techverx\EonApplication\Application.Consumer\obj\Debug\net6.0\ref\Application.Consumer.dll
+D:\Techverx\EonApplication\Application.Consumer\bin\Debug\net6.0\Application.Helper.dll
+D:\Techverx\EonApplication\Application.Consumer\bin\Debug\net6.0\Application.Helper.pdb
